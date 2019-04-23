@@ -1,7 +1,7 @@
 # det-calculator
 calculatrice de determinant de matrice caree.
 
-# examples
+# exemples
 
 4x4
 
